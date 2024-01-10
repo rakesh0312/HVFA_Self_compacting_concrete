@@ -4,7 +4,6 @@ import pickle
 import tkinter as tk
 import pickleshare
 from sklearn.ensemble import RandomForestRegressor
-
 # tkinter GUI
 root = tk.Tk() 
 root.title("Prediction of compressive strength of HVFA-SCC")
